@@ -1,0 +1,70 @@
+{
+    "server_details": {
+        "Server": "nginx",
+        "Powered By": "Unknown"
+    },
+    "outdated_software": "No",
+    "potential_vulnerabilities": {
+        "forms_found": 1
+    },
+    "missing_security_headers": [
+        "X-Frame-Options",
+        "Content-Security-Policy",
+        "X-XSS-Protection"
+    ],
+    "exposed_admin_panels": [],
+    "exposed_sensitive_files": [
+        "https://123.design/robots.txt",
+        "https://123.design/sitemap.xml"
+    ],
+    "exposed_js_files": [
+        "https://123.design/wp-includes/js/jquery/jquery.min.js",
+        "https://123.design/wp-includes/js/jquery/jquery-migrate.min.js",
+        "//123.design/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js",
+        "//123.design/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js",
+        "https://123.design/wp-content/plugins/service-box/assets/js/owl.carousel.min.js",
+        "https://123.design/wp-content/uploads/siteground-optimizer-assets/ecs_ajax_load.min.js",
+        "https://123.design/wp-content/uploads/siteground-optimizer-assets/ecs-script.min.js",
+        "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5995394949353484&host=ca-host-pub-2644536267352236",
+        "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/ScrollTrigger.min.js",
+        "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v17.0&appId=&autoLogAppEvents=1",
+        "https://123.design/wp-includes/js/dist/hooks.min.js",
+        "https://123.design/wp-includes/js/dist/i18n.min.js",
+        "https://123.design/wp-content/plugins/presto-player/src/player/player-static.js",
+        "https://123.design/wp-content/uploads/siteground-optimizer-assets/swv.min.js",
+        "https://123.design/wp-content/uploads/siteground-optimizer-assets/contact-form-7.min.js",
+        "https://123.design/wp-content/uploads/siteground-optimizer-assets/powerkit-basic-elements.min.js",
+        "https://123.design/wp-content/plugins/powerkit/modules/justified-gallery/public/js/jquery.justifiedGallery.min.js",
+        "https://123.design/wp-content/uploads/siteground-optimizer-assets/powerkit-justified-gallery.min.js",
+        "https://123.design/wp-includes/js/imagesloaded.min.js",
+        "https://123.design/wp-content/plugins/powerkit/modules/lightbox/public/js/glightbox.min.js",
+        "https://123.design/wp-content/uploads/siteground-optimizer-assets/powerkit-lightbox.min.js",
+        "https://123.design/wp-content/uploads/siteground-optimizer-assets/powerkit-opt-in-forms.min.js",
+        "//assets.pinterest.com/js/pinit.js?ver=6.7.2",
+        "https://123.design/wp-content/uploads/siteground-optimizer-assets/powerkit-pin-it.min.js",
+        "https://123.design/wp-content/uploads/siteground-optimizer-assets/powerkit-scroll-to-top.min.js",
+        "https://123.design/wp-content/uploads/siteground-optimizer-assets/powerkit-share-buttons.min.js",
+        "https://123.design/wp-content/plugins/powerkit/modules/slider-gallery/public/js/flickity.pkgd.min.js",
+        "https://123.design/wp-content/uploads/siteground-optimizer-assets/powerkit-slider-gallery.min.js",
+        "https://123.design/wp-content/uploads/siteground-optimizer-assets/powerkit-table-of-contents.min.js",
+        "https://123.design/wp-content/plugins/sg-cachepress/assets/js/lazysizes.min.js",
+        "https://123.design/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js",
+        "https://123.design/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js",
+        "https://123.design/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js",
+        "https://123.design/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js",
+        "https://123.design/wp-content/plugins/searchwp-live-ajax-search/assets/javascript/dist/script.min.js",
+        "https://123.design/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js",
+        "https://123.design/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js",
+        "https://123.design/wp-content/plugins/elementor/assets/js/frontend-modules.min.js",
+        "https://123.design/wp-content/plugins/elementor-pro/assets/js/frontend.min.js",
+        "https://123.design/wp-includes/js/jquery/ui/core.min.js",
+        "https://123.design/wp-content/plugins/elementor/assets/js/frontend.min.js",
+        "https://123.design/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js"
+    ],
+    "open_ports": [
+        21,
+        80,
+        443
+    ]
+}
